@@ -6,4 +6,4 @@ sudo mv astra /usr/bin/ > /dev/null
 sudo mkdir /etc/astra > /dev/null
 echo "installation was succesful........ Please Wait......... "
 echo "Setting (Port 5555)"
-echo "astra -c /etc/astra/iptv.conf -p 5555"
+echo "astra -c /etc/astra/astra.conf -p 5555"
